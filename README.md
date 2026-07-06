@@ -106,8 +106,3 @@ This project is intended for educational and testing purposes only.
 - Trading in live markets involves financial risk.
 
 
-### 👤 Developers 
-Shalmali Bichkar
-
-### <img src="https://github.com/user-attachments/assets/1aafab50-1305-47c4-87ab-40a9d64f3067" alt="contribution gif" width="35"/> Contributing
-@rutvik barbhai
